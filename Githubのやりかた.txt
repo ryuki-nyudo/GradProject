@@ -1,0 +1,10 @@
+１：自分のブランチ
+コミットします
+publish
+２：main
+history
+select
+自分のブランチ選択
+マージコミット
+publish
+３：自分のブランチに戻る
